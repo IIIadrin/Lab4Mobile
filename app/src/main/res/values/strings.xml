@@ -1,3 +1,84 @@
 <resources>
-    <string name="app_name">ml4</string>
+    <string name="app_name">Мой Калининград</string>
+
+    <string name="category_coffee">Кофейни</string>
+    <string name="category_museums">Музеи</string>
+    <string name="category_sights">Достоприме\u00ADчательности</string>
+    <string name="category_restaurants">Рестораны</string>
+
+    <string name="nav_home">Главная</string>
+    <string name="nav_about">О приложении</string>
+
+    <string name="category_prompt">Выберите категорию:</string>
+    <string name="about_text">Приложение «Мой Калининград»\nВерсия 1.0\n\nПутеводитель по самым интересным местам города. Все данные хранятся локально и доступны без интернета.</string>
+
+    <string name="back_button">Назад</string>
+    <string name="menu_button">Открыть меню</string>
+
+    <string name="place_short_desc">Уютное место с историей</string>
+    <string name="place_long_desc">Это место является знаковым для жителей Калининграда. Здесь вы можете насладиться архитектурой и узнать больше о культуре региона.</string>
+
+    <string name="gs_name">GS Coffee</string>
+    <string name="gs_short">Спешелти кофе в историческом центре.</string>
+    <string name="gs_long">Уютная сеть с минималистичным дизайном и отличным выбором зерен собственной обжарки.</string>
+
+    <string name="prussia_name">Кофейня №1</string>
+    <string name="prussia_short">Атмосфера старого Кёнигсберга.</string>
+    <string name="prussia_long">Место с историческим колоритом, где подают традиционные десерты и крепкий кофе.</string>
+
+    <string name="port_name">Порт-о-кофе</string>
+    <string name="port_short">Стильный лофт и панорамные окна.</string>
+    <string name="port_long">Известная городская сеть, популярная среди молодежи и фрилансеров.</string>
+
+    <string name="elev_name">Элеватор</string>
+    <string name="elev_short">Кофе в здании старого элеватора.</string>
+    <string name="elev_long">Уникальное индустриальное пространство с авторскими напитками.</string>
+
+    <string name="amber_name">Музей янтаря</string>
+    <string name="amber_short">Единственный в России музей янтаря.</string>
+    <string name="amber_long">Расположен в крепостной башне Дона. Огромная коллекция "солнечного камня".</string>
+
+    <string name="ocean_name">Музей Мирового океана</string>
+    <string name="ocean_short">Корабли, подлодка и аквариумы.</string>
+    <string name="ocean_long">Главный маринистический музей страны. Можно подняться на борт настоящего научного судна.</string>
+
+    <string name="kant_name">Кафедральный собор</string>
+    <string name="kant_short">Сердце острова Канта.</string>
+    <string name="kant_long">Здесь находится могила Иммануила Канта и самый большой органный комплекс в Европе.</string>
+
+    <string name="bunker_name">Музей Бункер</string>
+    <string name="bunker_short">Штаб немецкого командования.</string>
+    <string name="bunker_long">Подземное защитное сооружение, где была подписана капитуляция Кёнигсберга.</string>
+
+    <string name="village_name">Рыбная деревня</string>
+    <string name="village_short">Этнографический и ремесленный центр.</string>
+    <string name="village_long">Квартал, застроенный зданиями в стиле старого немецкого города. Лучшее место для прогулок.</string>
+
+    <string name="gates_name">Королевские ворота</string>
+    <string name="gates_short">Самые красивые ворота города.</string>
+    <string name="gates_long">Один из главных символов города, архитектурный памятник XIX века.</string>
+
+    <string name="fort5_name">Форт №5</string>
+    <string name="fort5_short">Оборонительное сооружение Кёнигсберга.</string>
+    <string name="fort5_long">Массивный форт, выдержавший героический штурм в 1945 году. Сейчас — мемориальный комплекс.</string>
+
+    <string name="park_name">Центральный парк</string>
+    <string name="park_short">Бывший Луизенваль.</string>
+    <string name="park_long">Здесь находится кирха памяти королевы Луизы и множество аттракционов.</string>
+
+    <string name="zotler_name">Zötler</string>
+    <string name="zotler_short">Баварский ресторан.</string>
+    <string name="zotler_long">Классическая немецкая кухня: рульки, сосиски и аутентичное пиво.</string>
+
+    <string name="salt_name">Salt</string>
+    <string name="salt_short">Гастробар с современной кухней.</string>
+    <string name="salt_long">Изысканная подача, локальные продукты и авторские коктейли.</string>
+
+    <string name="kaiser_name">Кайзерхофф</string>
+    <string name="kaiser_short">Ресторан с видом на реку.</string>
+    <string name="kaiser_long">Элегантный ресторан в Рыбной деревне, специализирующийся на европейской кухне.</string>
+
+    <string name="fish_name">Рыбный клуб</string>
+    <string name="fish_short">Лучшие морепродукты города.</string>
+    <string name="fish_long">Дорогой рыбный ресторан с видом на Кафедральный собор.</string>
 </resources>

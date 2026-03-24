@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="padding_small">12.dp</dimen>
+    <dimen name="padding_medium">24.dp</dimen>
+    <dimen name="padding_large">32.dp</dimen>
+
+    <dimen name="card_elevation">4.dp</dimen>
+    <dimen name="list_item_image_size">80.dp</dimen>
+    <dimen name="detail_image_height">400.dp</dimen>
+    <dimen name="drawer_width">320.dp</dimen>
+</resources>
